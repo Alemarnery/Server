@@ -8,6 +8,6 @@ export class AppRouter {
       AppRouter.instance = express.Router();
     }
 
-    return AppRouter.instance;
+    //return AppRouter.instance;
   }
 }
